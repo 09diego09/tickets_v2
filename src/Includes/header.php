@@ -21,5 +21,4 @@
     </nav>
     
     <div class="container">
-        ```
 
